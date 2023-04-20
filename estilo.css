@@ -1,0 +1,20 @@
+
+h3,h1{
+    align-items: center;
+    text-align: center;
+    
+}
+
+.boton{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.reloj{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
